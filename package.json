@@ -4,8 +4,11 @@
   "description": "parse command line options",
   "main": "index.js",
   "author": "Chad Mills",
+  "scripts": {
+    "test": "jest"
+  },
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^24.8.0"
   }
 }
